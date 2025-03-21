@@ -1,0 +1,19 @@
+{
+    "app_title" : "Rastreador de Gastos",
+    "slidable_editButton" : "Editar",
+    "slidable_deleteButton" : "Eliminar",
+    "name" : "Nombre",
+    "category" : "Categoría",
+    "amount" : "Cantidad",
+    "payment_date" : "Fecha de Pago",
+    "created_at" : "Creado En",
+    "add_expense" : "Agregar Gasto",
+    "recipient_name" : "Nombre del Destinatario",
+    "select_a_Date" : "Seleccionar una Fecha",
+    "cancel" : "Cancelar",
+    "save" : "Guardar",
+    "update_expense" : "Actualizar Gasto",
+    "monthly_expense" : "Gasto Mensual",
+    "month_and_year" : "Mes/Año :",
+    "total_Amount" : "Cantidad Total"
+}

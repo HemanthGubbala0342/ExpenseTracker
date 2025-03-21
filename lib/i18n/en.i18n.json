@@ -1,0 +1,19 @@
+{
+    "app_title" : "Expense Tracker",
+    "slidable_editButton" : "Edit",
+    "slidable_deleteButton" : "Delete",
+    "name" : "Name",
+    "category" : "Category",
+    "amount" : "Amount",
+    "payment_date" : "PaymentDate",
+    "created_at" : "CreatedAt",
+    "add_expense" : "Add Expense",
+    "recipient_name" : "RecipientName",
+    "select_a_Date" : "Select a Date",
+    "cancel" : "Cancel",
+    "save" : "Save",
+    "update_expense" : "UpdateExpense",
+    "monthly_expense" : "Monthly Expense",
+    "month_and_year" : "Month/Year :",
+    "total_Amount" : "Total Amount"
+}

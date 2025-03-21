@@ -1,0 +1,19 @@
+{
+    "app_title" : "ఖర్చుల ట్రాకర్",
+    "slidable_editButton" : "మార్చు",
+    "slidable_deleteButton" : "తొలగించు",
+    "name" : "పేరు",
+    "category" : "కేటగరీ",
+    "amount" : "ఖర్చు",
+    "payment_date" : "చెల్లింపు తేదీ",
+    "created_at" : "సృష్టించిన తేదీ",
+    "add_expense" : "ఖర్చు జోడించు",
+    "recipient_name" : "పేరు",
+    "select_a_Date" : "తేదీ ఎంచుకోండి",
+    "cancel" : "రద్దు చేయి",
+    "save" : "సేవ్ చేయి",
+    "update_expense" : "ఖర్చును నవీకరించు",
+    "monthly_expense" : "నెలవారీ ఖర్చు",
+    "month_and_year" : "నెల/సంవత్సరం :",
+    "total_Amount" : "మొత్తం"
+}
